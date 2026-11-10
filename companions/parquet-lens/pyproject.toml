@@ -1,0 +1,6 @@
+[project]
+name = "parquet-lens"
+version = "1.2.0"
+description = "Column-level profiler for Parquet lakes"
+requires-python = ">=3.10"
+dependencies = ["pyarrow>=14"]
